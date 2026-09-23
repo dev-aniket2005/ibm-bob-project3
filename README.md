@@ -37,14 +37,14 @@ house_price_regression_dataset.csv
             │
             ▼
     ┌─────────────────┐
-    │  Data Cleaning   │  ← Duplicate removal, median imputation,
-    │  & Engineering   │    outlier capping, domain validation
+    │  Data Cleaning  │  ← Duplicate removal, median imputation,
+    │  & Engineering  │    outlier capping, domain validation
     └────────┬────────┘
              │
              ▼
     ┌─────────────────┐
-    │ Feature Engineer │  ← House Age, Price/SqFt, Luxury Index,
-    │                  │    Total Rooms, SqFt per Room
+    │ Feature Engineer│  ← House Age, Price/SqFt, Luxury Index,
+    │                 │    Total Rooms, SqFt per Room
     └────────┬────────┘
              │
              ▼
@@ -83,7 +83,7 @@ house_price_regression_dataset.csv
 ## 📊 Dataset
 
 **Source:** Kaggle — House Price Regression Dataset  
-**Direct Link:** [https://www.kaggle.com/datasets/prokshitha/home-value-insights-house-price-regression](https://www.kaggle.com/datasets/prokshitha/home-value-insights-house-price-regression)
+**Direct Link:** [https://www.kaggle.com/datasets/prokshitha/home-value-insights](https://www.kaggle.com/datasets/prokshitha/home-value-insights)
 
 | Column                 | Type    | Description                              |
 |------------------------|---------|------------------------------------------|
